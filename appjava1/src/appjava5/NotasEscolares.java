@@ -43,6 +43,8 @@ public class NotasEscolares {
         aluno + " teve a média " +
         notas[4] + " e foi " + resultado + ".");
 
+        System.out.println("Alterado no VS online");
+
 
         
 
