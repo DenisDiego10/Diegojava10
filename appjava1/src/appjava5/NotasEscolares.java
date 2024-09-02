@@ -44,6 +44,7 @@ public class NotasEscolares {
         notas[4] + " e foi " + resultado + ".");
 
         System.out.println("Alterado no VS online");
+        System.out.println("Teste de push");
 
 
         
